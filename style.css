@@ -1,0 +1,37 @@
+body{
+    background-color: #393E46;
+}
+
+h1{
+    color:#4ECCA3;
+    font-family: Lobster,cursive;
+    font-size: 8rem;
+    text-shadow: 5px 0 #232931;
+    margin: 30px;
+}
+
+p{
+    color:#4ECCA3;
+    font-family: Indie Flower,cursive;
+    font-size: 2rem;
+}
+.container{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+.dice{
+    display: inline-block;
+    margin: 0 2rem;
+    text-align: center;
+}
+.winner{
+    font-size: 5rem;
+    text-align: center;
+}
+footer{
+    color: white;
+    font-family:Indie Flower,cursive;
+    margin-top: 5%;
+    text-align: center;
+}
